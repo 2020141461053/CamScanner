@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/edit_text_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <TextView
+                android:text="查看结果"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35sp"
+                android:fontFamily="@font/title"
+                android:textColor="#000000"
+                android:id="@+id/textView3"/>
+        <EditText
+                android:id="@+id/edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="文本"/>
+    </LinearLayout>
+
+</LinearLayout>

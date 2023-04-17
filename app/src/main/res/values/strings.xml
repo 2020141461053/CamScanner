@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">智能助手</string>
+    <string name="title_home">功能</string>
+    <string name="title_dashboard">历史记录</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="camera_button">camera</string>
+    <string name="title">智能助手</string>
+    <string name="tx1">效率提升</string>
+    <string name="tx2">学习辅助</string>
+    <string name="tx3">科研论文</string>
+    <string name="tx4">统筹安排</string>
+
+</resources>
